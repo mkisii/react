@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Waking Up",
+      "day": "Mar 29th at 7am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Leaving for work",
+      "day": "Mar 29th at 8am",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Prepare Supper",
+      "day": "Mar 29th at 8:30pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Work on React Project",
+      "day": "Mar 29th at 10pm",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Sleeping Time",
+      "day": "Mar 29th at 2am",
+      "reminder": true
+    },
+    {
+      "text": "My pre",
+      "day": "Tuesday 4th ",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "New",
+      "day": "Thursday",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Track ",
+      "day": "Friday",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "Attending Doctor's Appointment",
+      "day": "Mar 23th at 10am",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "The Computer ",
+      "day": "April at 3pm ",
+      "reminder": true,
+      "id": 11
+    }
+  ]
+}
