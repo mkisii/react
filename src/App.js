@@ -8,6 +8,8 @@ import HookCounterThree from './components/useState/HookCounterThree';
 import HookCounterFour from './components/useState/HookCounterFour';
 import ClassCounterOne from './components/useEffect/ClassCounterOne';
 import HookCounterOne from './components/useEffect/HookCounterOne';
+import HookMouse from './components/useEffect/HookMouse';
+import MouseContainer from './components/useEffect/MouseContainer';
 
 function App() {
   return (
@@ -23,8 +25,9 @@ function App() {
       <HookCounterThree/>
       <HookCounterFour/> */}
       {/* useEffect Hooks */}
-      <ClassCounterOne/>
-      <HookCounterOne/>
+      {/* <ClassCounterOne/> */}
+      {/* <HookCounterOne/> */}
+      <MouseContainer/>
     </div>
   );
 }
