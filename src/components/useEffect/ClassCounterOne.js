@@ -24,7 +24,7 @@ class ClassCounterOne extends Component {
                     value={this.state.name}
                     onChange={e => {
                         this.setState({name: e.target.value})
-                      }}
+                    }}
                 />
                 
                 <button onClick={() => this.setState({ count: this.state.count + 1})}>
